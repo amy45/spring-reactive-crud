@@ -1,2 +1,2 @@
 # spring-reactive-crud
- Demo applicstion for Spring reactive and DB Operations
+ Demo application for Spring reactive and DB Operations
